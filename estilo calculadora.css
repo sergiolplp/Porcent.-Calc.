@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif
+    
+}
+
+header{
+ color: blue;   
+    background-color: #9d9d9d;
+}
+
+body {
+    background-color: #ededed;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #00aae4;
+}
+
+.home {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.in-flex {
+    flex: 1;
+}
+
+.in-flex div {
+    padding: 25px;
+    background-color: #fff;
+    margin: 20px;
+}
+
+footer{
+    font-size: 20px;
+    color: #00aae4;
+}
